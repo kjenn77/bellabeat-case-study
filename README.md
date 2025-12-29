@@ -9,7 +9,7 @@ The data was collected from 30 Fitbit users from the 12th March 2016 to 12th May
 
 ## Tools
 Data cleaning, manipulation, and simple analysis: PostgreSQL.  
-Creating visualisations: Tableau
+Creating visualisations: Tableau.  
 Documentation and displaying results: Jupyter Notebooks
 
 ## Posted in
