@@ -8,8 +8,9 @@ Analyse Fitbit user health data to gain insight into how consumers use smart dev
 The data was collected from 30 Fitbit users from the 12th March 2016 to 12th May 2016.
 
 ## Tools
-Data cleaning, manipulation, and simple analysis: Postgre SQL.  
+Data cleaning, manipulation, and simple analysis: PostgreSQL.  
 Creating visualisations: Tableau
+Documentation and displaying results: Jupyter Notebooks
 
 ## Posted in
 [Kaggle](https://www.kaggle.com/code/jennkang/bellabeat-case-study)
