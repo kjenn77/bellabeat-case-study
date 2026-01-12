@@ -1,5 +1,5 @@
 # Bellabeat Case Study using Fitbit Data
-This case study is the Capstone Project of Google Data Analytics Professional Certificate on Coursera.
+This case study was conducted to identify Fitbit user trends to determine marketing opportunities for Bellabeat products.
 
 ## Business Task
 Analyse Fitbit user health data to gain insight into how consumers use smart devices.
